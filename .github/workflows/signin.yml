@@ -1,4 +1,6 @@
-name: Aliyun Signin
+- name: Aliyun Signin
+  uses: ImYrS/aliyun-auto-signin@v1.4.6
+
 
 on:
   schedule:
